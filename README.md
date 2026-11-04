@@ -1,49 +1,42 @@
+## Getting Started
 
-# OpenSSF Security Lab – Elena Gutierrez
+This repository demonstrates how to evaluate and improve GitHub repository security using OpenSSF Scorecard and OpenSSF Best Practices.
 
-Welcome to my OpenSSF Security Lab repository!
+### Accessing the Project
 
-## About This Project
+The project is publicly available on GitHub. Users can browse the repository, download its contents, or clone it using Git.
 
-This repository was created for my Computer Security course
-(CEN 3078) at Florida Gulf Coast University.
+### Running the Security Assessment
 
-The purpose of this project is to evaluate and improve
-software security using OpenSSF Scorecard and the
-OpenSSF Best Practices program.
+1. Open the repository's **Actions** tab.
+2. Select the OpenSSF Scorecard workflow.
+3. Review completed workflow runs and their results.
+4. Open **Security and quality** to review Code Scanning alerts.
+5. Examine security findings and apply appropriate fixes.
+6. Run the workflow again to verify improvements.
 
-## Project Objectives
+The workflow produces security assessment results, including findings related to repository configuration and software supply-chain security.
 
-- Evaluate repository security using OpenSSF Scorecard.
-- Earn an OpenSSF Scorecard badge.
-- Earn a Passing OpenSSF Best Practices badge.
-- Identify and address two security concerns.
-- Document security improvements and Scorecard results.
+## Contributing
 
-## Security Practices
+Contributions and improvement suggestions are welcome.
 
-This project aims to demonstrate secure software
-development practices, including:
+- Report bugs or propose enhancements using GitHub Issues.
+- Read [CONTRIBUTING.md](CONTRIBUTING.md) for contribution instructions.
+- Propose changes using pull requests.
 
-- Vulnerability reporting
-- Automated security analysis
-- Dependency management
-- Secure GitHub workflows
-- Repository documentation
+## Reporting Security Vulnerabilities
 
-## Security Assessment Results
+Please read [SECURITY.md](SECURITY.md) for instructions on reporting security vulnerabilities.
 
-Initial Scorecard Score: Pending assessment
+## Security Assessment Interface
 
-Updated Scorecard Score: Pending assessment
+**Inputs:** GitHub repository contents, configuration files, and workflow settings.
 
-## Author
+**Processing:** The OpenSSF Scorecard GitHub Actions workflow evaluates repository security practices.
 
-Elena Gutierrez
-Software Engineering
-Florida Gulf Coast University
+**Outputs:** Workflow execution results and security findings, including Code Scanning alerts where configured.
 
-## Course
+## Maintenance
 
-CEN 3078 – Computer Security
-Fall 2026
+The repository is maintained through GitHub commits, security configuration updates, and OpenSSF Scorecard workflow runs.
