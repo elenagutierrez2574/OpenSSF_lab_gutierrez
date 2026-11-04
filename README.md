@@ -1,3 +1,8 @@
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/elenagutierrez2574/OpenSSF_lab_gutierrez/badge)](https://scorecard.dev/viewer/?uri=github.com/elenagutierrez2574/OpenSSF_lab_gutierrez)
+
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16319/badge)](https://www.bestpractices.dev/projects/16319)
+
 ## Getting Started
 
 This repository demonstrates how to evaluate and improve GitHub repository security using OpenSSF Scorecard and OpenSSF Best Practices.
