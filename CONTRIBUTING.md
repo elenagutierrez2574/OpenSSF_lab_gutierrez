@@ -12,13 +12,17 @@ Thank you for your interest in contributing.
 
 ## Contribution Requirements
 
-- Use clear and descriptive commit messages.
-- Follow existing project coding conventions.
-- Include documentation for new functionality.
-- Test code changes before submitting.
-- Do not commit passwords, tokens, or API keys.
-- Report security vulnerabilities privately.
+Contributors should follow these guidelines:
 
+- Describe the purpose of proposed changes.
+- Use GitHub pull requests to submit changes.
+- Keep documentation clear and accurate.
+- Follow existing formatting and configuration conventions.
+- Avoid introducing secrets, passwords, or API keys.
+- Test configuration changes before submitting them.
+- Address relevant security concerns and review feedback.
+
+Security vulnerabilities should be reported according to SECURITY.md rather than disclosed in public issues.
 ## Code Review
 
 Contributions should be reviewed before merging
